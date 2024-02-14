@@ -1,1 +1,5 @@
-Aplikacja to do
+Aplikacja to-do:
+ - Aplikacja polegająca na dodawaniu zadań do zrobienia, 
+ - Zadania te można ustawić jako "do zrobienia", "w trakcie robienia", lub "zrobione"
+ - Będzie można dodawać tagi do zadań,
+ - Zadania będzie można rozłożyć w ciągu tygodnia
